@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sareenakul" alt="sareenakul" /></a> </p>
 
-- 🔭 I’m currently working on [Medley Diaries](medleydiaries.com)
+- 🔭 I’m currently working on <a href="https://main.d1jm76fngccuyv.amplifyapp.com/">[Medley Diaries]</a>
 
 - 🌱 I’m currently learning **MERN Stack development**
 
