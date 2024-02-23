@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sareenakul" alt="sareenakul" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://main.d1jm76fngccuyv.amplifyapp.com/">[Medley Diaries]</a>
+- 🔭 I’m currently working on <a href="https://github.com/sareenakul/MedleyEdits">[MedleyEdits]</a>
 
-- 🌱 I’m currently learning **MERN Stack development**
+- 🌱 I’m currently working with **MERN Stack**
 
 - 👨‍💻 All of my YouTube projects are available at [medleydiaries.com](medleydiaries.com)
 
-- 📫 How to reach me **sareen.akul@gmail.com**
+- 📫 How to reach me **sareen.akul@gmail.com** */* **akuls18@my.yorku.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
