@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working with **MERN Stack**
 
-- 👨‍💻 All of my YouTube projects are available at [medleydiaries.com](medleydiaries.com)
+- 👨‍💻 All of my YouTube projects are available at <a href="https://main.d1jm76fngccuyv.amplifyapp.com/">[medleydiaries.com]</a>
 
 - 📫 How to reach me **sareen.akul@gmail.com** */* **akuls18@my.yorku.ca**
 
