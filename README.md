@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akul sareen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akul sareen" height="30" width="40" /></a>
+<a href="https://ca.linkedin.com/in/akul-sareen-7a7501223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akul sareen" height="30" width="40" /></a>
 <a href="https://instagram.com/medleydiaries" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="medleydiaries" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/medley diaries" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="medley diaries" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sareenakul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sareenakul" height="30" width="40" /></a>
