@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sareenakul&label=Profile%20views&color=0e75b6&style=flat" alt="sareenakul" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sareenakul" alt="sareenakul" /></a> </p>
-
 - 🔭 I’m currently working on <a href="https://github.com/sareenakul/MedleyEdits">[MedleyEdits]</a>
 
 - 🌱 I’m currently working with **MERN Stack**
