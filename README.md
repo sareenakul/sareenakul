@@ -1,5 +1,9 @@
 <h1 align="center">Hi 🙋🏻‍♂️, I'm Akul</h1>
-<h3 align="center"> I'm a <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41A7F7&random=false&width=435&lines=Web+Developer;UI%2FUX+Designer;Content+Creator" alt="Typing SVG" /></a></h3>
+<h3 style="text-align: center;">
+  I'm a <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com font=Fira+Code&pause=1000&color=41A7F7&random=false&width=435&lines=Web+Developer;UI%2FUX+Designer;Content+Creator" alt="Typing SVG" />
+  </a>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sareenakul&label=Profile%20views&color=0e75b6&style=flat" alt="sareenakul" /> </p>
 
