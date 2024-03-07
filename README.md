@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Akul</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h1 align="center">Hi 🙋🏻‍♂️, I'm Akul</h1>
+<h3 align="center">A passionate [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41A7F7&random=false&width=435&lines=Web+Developer;UI%2FUX+Designer;Content+Creator)](https://git.io/typing-svg)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sareenakul&label=Profile%20views&color=0e75b6&style=flat" alt="sareenakul" /> </p>
 
