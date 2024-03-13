@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sareenakul&label=Profile%20views&color=0e75b6&style=flat" alt="sareenakul" /> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/sareenakul/MedleyEdits">[MedleyEdits]</a>
+- 🔭 I’m currently working on <a href="https://github.com/sareenakul/MedleyEdits">MedleyEdits</a> and <a href="https://github.com/sareenakul/grow-cery">Grow-Cery</a>
 
 - 🌱 I’m currently working with **MERN Stack**
 
