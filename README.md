@@ -27,5 +27,6 @@
 
 <div style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sareenakul&layout=compact&theme=radical" alt="Top Languages" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sareenakul&layout=compact&theme=radical" alt="sareenakul" />
   </div>
 </div>
