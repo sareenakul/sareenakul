@@ -28,3 +28,9 @@
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sareenakul&layout=compact&theme=radical" alt="sareenakul" />
   </div>
 </div>
+
+<p align="center">
+  <a href="https://github.com/sareenakul">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sareenakul&theme=radical" alt="Akul's GitHub Contributions"/>
+  </a>
+</p>
