@@ -6,9 +6,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sareenakul&show_icons=true&theme=radical" alt="Akul's GitHub stats" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sareenakul&label=Profile%20views&color=0e75b6&style=flat" alt="sareenakul" /> </p>
 
-- 🔭 Currently working on <a href="https://github.com/sareenakul/EmpowerU">EmpowerU</a> and <a href="https://github.com/sareenakul/grow-cery">Grow-Cery</a> 
+- 🔭 Currently working on <a href="https://github.com/sareenakul/Ver-IT">Ver-IT</a>
 
-- 👨‍💻 All of my YouTube projects are available at <a href="https://main.d1jm76fngccuyv.amplifyapp.com/">[medleydiaries.com]</a>
+- 👨‍💻 Check my Portfolio <a href="https://www.akulsareen.com/">[akulsareen.com]</a>
 
 - 📫 Reach me at **sareen.akul@gmail.com** */* **akuls18@my.yorku.ca**
   
