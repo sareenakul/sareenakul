@@ -6,7 +6,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sareenakul&show_icons=true&theme=radical" alt="Akul's GitHub stats" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sareenakul&label=Profile%20views&color=0e75b6&style=flat" alt="sareenakul" /> </p>
 
-- 🔭 Currently working on <a href="https://github.com/sareenakul/Ver-IT">Ver-IT</a>
+- 🔭 Currently working on Android Development and my Capstone project <a href="https://github.com/sareenakul/Ver-IT">Ver-IT</a>
 
 - 👨‍💻 Check my Portfolio <a href="https://www.akulsareen.com/">[akulsareen.com]</a>
 
